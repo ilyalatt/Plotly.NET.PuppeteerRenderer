@@ -1,0 +1,6 @@
+.idea
+.ionide
+*.user
+bin
+obj
+.local-chromium

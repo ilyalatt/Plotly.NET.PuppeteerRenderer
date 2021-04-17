@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plotly.NET.PuppeteerRenderer", "src\Plotly.NET.PuppeteerRenderer\Plotly.NET.PuppeteerRenderer.csproj", "{F659F2DE-752E-437B-A1B4-006F6F94E184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground", "src\Playground\Playground.csproj", "{3A2A4D99-3026-4772-8648-0C5DCE9A35A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F659F2DE-752E-437B-A1B4-006F6F94E184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F659F2DE-752E-437B-A1B4-006F6F94E184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F659F2DE-752E-437B-A1B4-006F6F94E184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F659F2DE-752E-437B-A1B4-006F6F94E184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A2A4D99-3026-4772-8648-0C5DCE9A35A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2A4D99-3026-4772-8648-0C5DCE9A35A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2A4D99-3026-4772-8648-0C5DCE9A35A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2A4D99-3026-4772-8648-0C5DCE9A35A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

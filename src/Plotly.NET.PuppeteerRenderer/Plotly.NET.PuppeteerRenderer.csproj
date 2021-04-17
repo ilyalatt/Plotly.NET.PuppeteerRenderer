@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageId>Plotly.NET.PuppeteerRenderer</PackageId>
+    <PackageProjectUrl>https://github.com/ilyalatt/Plotly.NET.PuppeteerRenderer</PackageProjectUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Description>Plotly.NET chart rendering without pain</Description>
+    <Authors>ilyalatt</Authors>
+
+    <VersionPrefix>0.1.0</VersionPrefix>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Plotly.NET" Version="2.0.0-beta8" />
+    <PackageReference Include="PuppeteerSharp" Version="3.0.0" />
+  </ItemGroup>
+
+</Project>
